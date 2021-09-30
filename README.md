@@ -3,7 +3,7 @@
 Database Structure and APIs to do the following :
 
 
-* Signup/Login for all users [Phone No/Password]
+* Signup/Login for ALL users [Phone No/Password]
 
 * Creating order from customer [Add to cart from available items and specify quantity, then place order]
 
